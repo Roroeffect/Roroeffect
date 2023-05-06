@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roroeffect
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Big Data Systems, quantum computing and Software analysis
 - 🌱 I’m currently learning Ruby and automation testing
 - 💞️ I’m looking to collaborate on projects in data mining and pruning/data filtering
